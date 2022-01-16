@@ -1,0 +1,9 @@
+.grid-container {
+  display: grid;
+  place-items: center;
+  grid-template-areas: "inner-div";
+}
+
+.grid-inner {
+  grid-area: inner-div;
+}

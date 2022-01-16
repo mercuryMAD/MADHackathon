@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'AT Arges Extreme Black Cond';
+    src: url('ATArges-ExtremeBlackCond.woff2') format('woff2'),
+        url('ATArges-ExtremeBlackCond.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AT Arges Black Cond';
+    src: url('ATArges-BlackCondOblique.woff2') format('woff2'),
+        url('ATArges-BlackCondOblique.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AT Arges Extreme Black Cond';
+    src: url('ATArges-ExtremeBlackCondOblique.woff2') format('woff2'),
+        url('ATArges-ExtremeBlackCondOblique.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AT Arges Black Cond';
+    src: url('ATArges-BlackCond.woff2') format('woff2'),
+        url('ATArges-BlackCond.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
